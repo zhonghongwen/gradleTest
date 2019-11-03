@@ -1,6 +1,7 @@
 apply plugin: 'groovy'
 apply plugin: 'maven'
 group = 'com.github.zhonghongwen'
+version='0.0.1'
 repositories {
     mavenCentral()
     jcenter()
